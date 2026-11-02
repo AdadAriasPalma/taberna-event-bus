@@ -2,11 +2,11 @@
 
 Implementación en Java del patrón arquitectónico **Publisher/Subscriber** utilizando un **Event Bus** concurrente y fuertemente tipado para desacoplar los subsistemas de una taberna concurrida.
 
-## 🚀 Requisitos Previos
+##  Requisitos Previos
 * Java JDK 17 o superior.
 * Apache Maven 3.8+.
 
-## 🛠️ Compilación y Ejecución
+##  Compilación y Ejecución
 
 Compilar el proyecto:
 ```bash
